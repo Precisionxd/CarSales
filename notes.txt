@@ -2,3 +2,6 @@ predictia de pret in functie de vechime pe ani
 gini index si entropie
 entropie maxima
 explicare matrice de corelatie
+Algoritmi: -naive base
+           -regresie
+           
